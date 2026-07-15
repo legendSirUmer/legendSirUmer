@@ -15,7 +15,7 @@ Building AI Agents • Enterprise RAG Systems • Cloud Native Applications • 
   <a href="https://github.com/legendSirUmer">
     <img src="https://img.shields.io/badge/GitHub-legendSirUmer-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/umer-hussain-707691314/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
