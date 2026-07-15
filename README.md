@@ -187,11 +187,11 @@ Smart Learning Management System using Machine Learning for plagiarism detection
 
 📧 Email: umerhussain17june@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
+💼 LinkedIn: https://www.linkedin.com/in/umer-hussain-707691314/
 
 🐙 GitHub: https://github.com/legendSirUmer
 
-🌐 Portfolio: Coming Soon
+
 
 ---
 
